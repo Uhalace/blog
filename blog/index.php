@@ -11,7 +11,7 @@
     <!--FONTS PARA O GOOGLE -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"> 
     <title>Inicio</title>
-  </head>
+ 
   <style type="text/css">
     *{
   margin:0;
@@ -72,6 +72,7 @@ footer{
   justify-content:center !important;
 }
   </style>
+</head>
   <body>
     <header>
     <!--NAV BAR-->
@@ -289,3 +290,4 @@ footer{
     <!--fim footer-->
   </body>
 </html>
+
