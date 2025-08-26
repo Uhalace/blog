@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="pt-br">
   <head>
     <!-- Required meta tags -->
@@ -289,4 +289,5 @@ footer{
     <!--fim footer-->
   </body>
 </html>
+
 
